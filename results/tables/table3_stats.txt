@@ -1,0 +1,25 @@
+Friedman (accuracy): chi2 = 118.57, p = 2.622e-21
+Nemenyi CD: 2.473
+
+Mean ranks:
+  DCA             3.17
+  Hybrid GA-DCA   3.17
+  Standard DE     3.57
+  Standard GA     3.60
+  Binary PSO      5.02
+  HHO             6.48
+  ABC             7.18
+  GWO             7.30
+  MFO             7.60
+  WOA             7.92
+
+Cliques:
+  {DCA, Hybrid GA-DCA, Standard DE, Standard GA, Binary PSO}
+  {Hybrid GA-DCA, Standard DE, Standard GA, Binary PSO}
+  {Standard DE, Standard GA, Binary PSO}
+  {Standard GA, Binary PSO}
+  {Binary PSO, HHO, ABC, GWO}
+  {HHO, ABC, GWO, MFO, WOA}
+  {ABC, GWO, MFO, WOA}
+  {GWO, MFO, WOA}
+  {MFO, WOA}

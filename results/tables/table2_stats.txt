@@ -1,0 +1,24 @@
+Friedman: chi2 = 392.96, p = 4.344e-79
+Nemenyi CD (alpha=0.05, k=10, N=50): 1.916
+
+Mean ranks (1 = best):
+  DCA             1.16
+  Standard GA     2.54
+  Hybrid GA-DCA   3.09
+  Standard DE     3.28
+  Binary PSO      5.73
+  HHO             6.42
+  MFO             7.35
+  GWO             7.45
+  WOA             8.44
+  ABC             9.54
+
+Statistically indistinguishable cliques:
+  {DCA, Standard GA}
+  {Standard GA, Hybrid GA-DCA, Standard DE}
+  {Hybrid GA-DCA, Standard DE}
+  {Binary PSO, HHO, MFO, GWO}
+  {HHO, MFO, GWO}
+  {MFO, GWO, WOA}
+  {GWO, WOA}
+  {WOA, ABC}
